@@ -9,7 +9,6 @@ A ideia foi montar uma tabela de planos de um produto ou serviço, aplicando tam
 
 ## Languages and Tools
 
-- TypeScript
 - HTML 
 - CSS
 
